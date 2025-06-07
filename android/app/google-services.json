@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "623432132497",
+    "project_id": "plantdiseaserecognition",
+    "storage_bucket": "plantdiseaserecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623432132497:android:86157ab71a6688ad7adc30",
+        "android_client_info": {
+          "package_name": "com.aol.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxH2Fe04KEG1-T3mv2l5visyZmONwSvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623432132497:android:ecf38491301b58d97adc30",
+        "android_client_info": {
+          "package_name": "com.aol.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxH2Fe04KEG1-T3mv2l5visyZmONwSvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
